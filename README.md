@@ -1,1 +1,10 @@
+usn=input("Enter USN:")
+name=input("Enter Name:")
+div=input("Enter Division:")
+course=input("Enter Course:")
+print("\nSTUDENT DETAILS")
+print("USN:",usn)
+print("Name:",name)
+print("Division:",div)
+print("Course:",course)
 
